@@ -1,0 +1,42 @@
+[
+  {
+    "role": "RockerBoy",
+    "description": "RockerBoy En description"
+  },
+  {
+    "role": "Solo",
+    "description": "Solo En description"
+  },
+  {
+    "role": "NetRunner",
+    "description": "NetRunner En description"
+  },
+  {
+    "role": "Techie",
+    "description": "Techie En description"
+  },
+  {
+    "role": "MedTech",
+    "description": "MedTech En description"
+  },
+  {
+    "role": "Media",
+    "description": "Media En description"
+  },
+  {
+    "role": "Fixer",
+    "description": "Fixer En description"
+  },
+  {
+    "role": "Nomad",
+    "description": "Nomad En description"
+  },
+  {
+    "role": "Cop",
+    "description": "Cop En description"
+  },
+  {
+    "role": "Corporate",
+    "description": " Corporate En description"
+  }
+]

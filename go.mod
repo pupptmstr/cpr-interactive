@@ -1,3 +1,3 @@
-module cpr-interactive-lib
+module cpr-interactive
 
 go 1.21

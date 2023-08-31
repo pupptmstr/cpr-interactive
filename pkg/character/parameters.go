@@ -1,18 +1,17 @@
 package character
 
-type Parameters struct {
+type Stats struct {
 	Intellect int
-	Will      int
-	Charisma  int
+	Willpower int
+	Cool      int
 	Empathy   int
 
-	TechnicalAbility int
-	Reflexes         int
+	Technique int
+	Reflexes  int
 
-	BodyType  int
+	Body      int
 	Dexterity int
 	Movement  int
 
 	Luck int
-	//Humanity?
 }
